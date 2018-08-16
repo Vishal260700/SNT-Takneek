@@ -1,0 +1,260 @@
+#particles-js{
+  		background: linear-gradient(to right, #34495E , #85929E);
+  		height:1200px;
+  	}
+  	#head{
+		  color: white;
+		  position:absolute;
+		  top:8%;
+		  left:46.5%;
+  	}
+	#Robotics{
+		  color: white;
+		  position:absolute;
+		  top:16%;
+		  left:6.25%;
+		  background:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url("../img/robo.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#Rubiks{
+		  color: white;
+		  position:absolute;
+		  top:16%;
+		  left:37.5%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/rubiks.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#BRAIN{
+		  color: white;
+		  position:absolute;
+		  top:16%;
+		  left:68.75%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/brain.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#SAE{
+		  color: white;
+		  position:absolute;
+		  top:46%;
+		  left:6.25%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/sae.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#Aero{
+		  color: white;
+		  position:absolute;
+		  top:46%;
+		  left:37.5%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/aero.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#Buissness{
+		  color: white;
+		  position:absolute;
+		  top:46%;
+		  left:68.75%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/buisness.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#Programming{
+		  color: white;
+		  position:absolute;
+		  top:76%;
+		  left:6.25%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/programming.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#Descon{
+		  color: white;
+		  position:absolute;
+		  top:76%;
+		  left:37.50%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/descon.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#Flagship{
+		  color: white;
+		  position:absolute;
+		  top:76%;
+		  left:68.75%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/flagship.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#Tinkering{
+		  color: white;
+		  position:absolute;
+		  top:106%;
+		  left:6.25%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/tinkering.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#Electronics{
+		  color: white;
+		  position:absolute;
+		  top:106%;
+		  left:68.75%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/electronics.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+
+	#Astronomy{
+		  color: white;
+		  position:absolute;
+		  top:106%;
+		  left:37.50%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/astronomy.jpg");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+	#Coffehouse{
+		  color: white;
+		  position:absolute;
+		  top:136%;
+		  left:37.5%;
+		  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../img/coffehouse.png");
+		  border-radius: 10px;
+		  background-size: cover;
+		  background-repeat: no-repeat;
+		}
+		#Astronomy:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#Robotics:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+			}
+		#Aero:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#Rubiks:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#SAE:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#Electronics:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#Coffehouse:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#Tinkering:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#Programming:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#Flagship:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#Descon:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+		#BRAIN:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px orange;
+		}
+		#Buissness:hover{
+			box-shadow: 0 0 50px white;
+			color: white;
+			border-radius: 0;
+			transition: all ease-in 0.5s;
+			cursor: all-scroll;
+			text-shadow: 0 0 100px white;
+		}
+#particles-js h4{
+	font-family:serif;
+	margin-top: 25%;
+	font-size: 40px;
+}
