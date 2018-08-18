@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Robotics</title>
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <link rel="stylesheet" type="text/css" href="css/style3.css" />
+    <link rel="shortcut icon" type="image/jpg" href="img/Logo.png">
+    <link rel="stylesheet" href="./css/main.css">
+    <link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800|Londrina+Outline' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800|Clicker+Script' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js" integrity="sha384-u/bQvRA/1bobcXlcEYpsEdFVK/vJs3+T+nXLsBYJthmdBuavHvAW6UsmqO2Gd/F9" crossorigin="anonymous"></script>
+    <style>
+    	#amigo{
+    		position: absolute;
+    		top: 10%;
+    		left: 2%;
+    		background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("img/sae.jpg");
+    		background-size: cover;
+    	}
+    	#amigo_sub{
+    		text-align: center;
+    		margin-top: 20%;
+    		margin-bottom: 20%;
+    		color: white;
+    	}
+    	#amigo{
+    		width: 100%;
+    		border-radius: 20px;
+    	}
+    	#amigo:hover{
+    		box-shadow: 0 0 20px white;
+    		transition: all ease-in 0.5s;
+    		border-radius: 0;
+    		background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url("img/sae.jpg");
+    		background-size: cover;
+    		text-shadow: 0 0 100px white;
+    	}
+    </style>
+</head>
+<body>
+	<div class="topnav" id="myTopnav">
+	  <a href="index.html" style="float: left">TAKNEEK-18</a>
+	  <a href="#news">Contact</a>
+	  <a href="Events.html">Events</a>
+	  <a href="index.html">Home</a>
+	  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+	  <i class="fa fa-bars"></i>
+	  </a>
+	</div>
+    <canvas id="canvas"></canvas>
+    	<div class="row">
+    		<div class="col-md-5" id="amigo">
+    			<div id="amigo_sub">
+    			<h1>-SAE-</h1>
+    			<h3>-X Points-</h3>
+    			</div>
+    		</div>
+    </div>
+    <script src="js/main.js"></script>
+    <script src="js/canvas.js"></script>
+    <script src="js/star.js"></script>
+</body>
+</html>
